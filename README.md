@@ -15,9 +15,12 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    ```bash
     npx expo start
    ```
+<<<<<<< HEAD
 ## 🎥 Screen_Recording
 
 [▶️ Click here to watch the screen recording](./Screen_Recording.mp4)
+=======
+>>>>>>> f6de3b3af1738f83cd2ac15693880f7ac19bf642
 
 In the output, you'll find options to open the app in a
 
